@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-itpark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/rest.js",
+    "test": "exit 0"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^7.7.0",
+    "restify-errors": "^6.1.1"
+  }
+}
